@@ -6,6 +6,5 @@ read name
 echo "Enter your Emp-id:"
 read id
 
-echo "Welcome, $name..!"
-echo "Employee id- $id"
+echo "Welcome, $name..!, and your Employee id- $id"
 
