@@ -1,9 +1,11 @@
 #!/bin/bash
 
 echo "Enter your name:"
-echo "Enter your id:"
 read name
+
+echo "Enter your Emp-id:"
 read id
-echo "Welcome,$name..!"
-echo "Employee id,$id"
+
+echo "Welcome, $name..!"
+echo "Employee id- $id"
 
